@@ -1,5 +1,6 @@
 #include "monty.h"
 
+
 /**
  * opcode_finder - find opcode
  * @stack: stack pointer

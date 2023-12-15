@@ -1,10 +1,10 @@
 #include "monty.h"
 
 /**
-* len - length of stack
-* @stack: pointer that point to stack
-* Return: unsigned int
-**/
+ * len - length of stack
+ * @stack: pointer that point to stack
+ * Return: unsigned int
+ **/
 unsigned int len(stack_t **stack)
 {
     stack_t *current;
